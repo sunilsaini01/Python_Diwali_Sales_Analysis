@@ -247,6 +247,7 @@ Focus logistics and warehouse capacity in UP, Maharashtra, Karnataka, Delhi, and
 ```
 Diwali-Sales-Analysis/
 │
+├── .gitignore
 ├── 📄 Diwali_Sales_Data.csv           ← Raw transaction dataset
 ├── 📓 Diwali_Sales_Analysis.ipynb     ← Full EDA notebook
 └── 📋 README.md                       ← Project documentation
@@ -254,13 +255,6 @@ Diwali-Sales-Analysis/
 
 ---
 
-## 🙏 Acknowledgements
-
-- Dataset and original project by **Rishabh Mishra**
-- YouTube walkthrough: [@RishabhMishraOfficial](https://www.youtube.com/@RishabhMishraOfficial)
-- GitHub reference: [Python_Diwali_Sales_Analysis](https://github.com/rishabhnmishra/Python_Diwali_Sales_Analysis)
-
----
 
 <div align="center">
 
